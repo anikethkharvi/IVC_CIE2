@@ -1,5 +1,0 @@
-print("Hello")
-print("My name is Aniketh")
-print("Class 12")
-print("Section A")
-print("1RUA24SCS0008")
